@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "virgencraft:hoja_murakumogiri"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "virgencraft:mango_murakumogiri"
+    }
+  },
+  "result": {
+    "item": "virgencraft:murakumogiri",
+    "count": 1
+  }
+}

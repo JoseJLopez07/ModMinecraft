@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Virgo",
+    "icon": {
+      "value": "CUSTOM:Kairoseki"
+    },
+    "showSearch": false
+  }
+}

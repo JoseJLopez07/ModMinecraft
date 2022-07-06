@@ -1,0 +1,7 @@
+{
+  "parent": "virgencraft:custom/modelsombrero",
+  "textures": {
+    "0": "virgencraft:blocks/textura_sombrero",
+    "particle": "virgencraft:items/sombrero_de_paja_textura"
+  }
+}

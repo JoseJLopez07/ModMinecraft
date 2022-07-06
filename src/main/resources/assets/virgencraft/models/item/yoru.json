@@ -1,0 +1,8 @@
+{
+  "parent": "virgencraft:custom/yoru",
+  "textures": {
+    "0": "virgencraft:blocks/textura_mango_yotu",
+    "1": "virgencraft:blocks/textura_filo_yoru",
+    "particle": "virgencraft:items/yoru"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "virgencraft:steel_ingot"
+    },
+    "2": {
+      "item": "virgencraft:steel_ingot"
+    },
+    "3": {
+      "item": "virgencraft:steel_ingot"
+    },
+    "4": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "5": {
+      "item": "virgencraft:steel_ingot"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "virgencraft:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "virgencraft:hoja_murakumogiri",
+    "count": 1
+  }
+}

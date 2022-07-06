@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 20,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "virgencraft:raw_steel_ingot"
+  },
+  "result": "virgencraft:steel_ingot"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "virgencraft:custom/murakumogiri",
+  "textures": {
+    "0": "virgencraft:blocks/textura_murakumogiri",
+    "particle": "virgencraft:items/murakumogiri_textura"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc_prueba",
+    "name": "Memories",
+    "description": "memories - one piec ending",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:memories"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

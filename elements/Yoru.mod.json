@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "yoru",
+    "customModelName": "yoru:default",
+    "name": "Yoru",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Virgo"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 2.0,
+    "attackSpeed": 2.2,
+    "enchantability": 15,
+    "damageVsEntity": 9.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

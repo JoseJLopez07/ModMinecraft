@@ -1,0 +1,408 @@
+{
+  "mod_elements": [
+    {
+      "name": "Kairoseki",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kairoseki"
+    },
+    {
+      "name": "MineralDeKiroseki",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineral_de_kiroseki"
+    },
+    {
+      "name": "Memories",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "memories"
+    },
+    {
+      "name": "Virgo",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "virgo"
+    },
+    {
+      "name": "RawSteelIngot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_steel_ingot"
+    },
+    {
+      "name": "SteelRawIngot",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_raw_ingot"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot"
+    },
+    {
+      "name": "ConseguirSteel",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "conseguir_steel"
+    },
+    {
+      "name": "ShirkenItem",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shirken_item"
+    },
+    {
+      "name": "Shuriken",
+      "type": "rangeditem",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuriken"
+    },
+    {
+      "name": "CrafteoShuriken",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_shuriken"
+    },
+    {
+      "name": "DragonSlayer",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_slayer"
+    },
+    {
+      "name": "DragonSlayerEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_slayer_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rage",
+      "type": "potioneffect",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rage"
+    },
+    {
+      "name": "RageEffectStartedapplied",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rage_effect_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MangoDragonSlayer",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_dragon_slayer"
+    },
+    {
+      "name": "CrafteoMangoDragonSlayer",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_mango_dragon_slayer"
+    },
+    {
+      "name": "CrafteoDragonSlayer",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_dragon_slayer"
+    },
+    {
+      "name": "Ace",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ace"
+    },
+    {
+      "name": "MangoAce",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_ace"
+    },
+    {
+      "name": "CrafteoMangoAce",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_mango_ace"
+    },
+    {
+      "name": "CrafteoAce",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_ace"
+    },
+    {
+      "name": "SombreroDePaja",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sombrero_de_paja"
+    },
+    {
+      "name": "Yoru",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yoru"
+    },
+    {
+      "name": "MangoYoru",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_yoru"
+    },
+    {
+      "name": "CrafteoMangoYoru",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_mango_yoru"
+    },
+    {
+      "name": "CrafteoYoru",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_yoru"
+    },
+    {
+      "name": "ToyakoBokuto",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toyako_bokuto"
+    },
+    {
+      "name": "CrafteoToyakoBokuto",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_toyako_bokuto"
+    },
+    {
+      "name": "Murakumogiri",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "murakumogiri"
+    },
+    {
+      "name": "Kaido",
+      "type": "livingentity",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kaido"
+    },
+    {
+      "name": "MangoMurakumogiri",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_murakumogiri"
+    },
+    {
+      "name": "CrafteoMangoMurakumogiri",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_mango_murakumogiri"
+    },
+    {
+      "name": "HojaMurakumogiri",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoja_murakumogiri"
+    },
+    {
+      "name": "CrafteoMurakumogiri",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_murakumogiri"
+    },
+    {
+      "name": "CrafteoHojaMurakumogiri",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafteo_hoja_murakumogiri"
+    },
+    {
+      "name": "OpenMenuOnKeyPressed",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_menu_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OpenMenu",
+      "type": "keybind",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_menu"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "power_system",
+      "type": "string",
+      "scope": "player_persistent",
+      "value": "\"\""
+    },
+    {
+      "name": "energy_amount",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "memories",
+      "files": [
+        "one-piece-ending-1-memories-sub.-espanolamv_"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.virgencraft.dragon_slayer": "Dragon Slayer",
+      "item.virgencraft.kaido_spawn_egg": "Kaido Spawn Egg",
+      "item.virgencraft.murakumogiri": "Murakumogiri",
+      "entity.virgencraft.kaido": "Kaido",
+      "item.virgencraft.ace": "Ace",
+      "item.virgencraft.mango_dragon_slayer": "Mango Dragon Slayer",
+      "item.virgencraft.mango_murakumogiri": "Mango Murakumogiri",
+      "subtitles.memories": "",
+      "item.virgencraft.hoja_murakumogiri": "Hoja Murakumogiri",
+      "item.virgencraft.toyako_bokuto": "Toyako Bokuto",
+      "item.virgencraft.steel_ingot": "Steel Ingot",
+      "key.virgencraft.open_menu": "Open Menu",
+      "item.virgencraft.mango_ace": "Mango Ace",
+      "item.virgencraft.sombrero_de_paja": "Sombrero De Paja",
+      "itemGroup.tabvirgo": "Virgo",
+      "item.virgencraft.shuriken": "Shuriken",
+      "item.virgencraft.mango_yoru": "Mango Yoru",
+      "item.virgencraft.kairoseki": "Kairoseki",
+      "item.virgencraft.shirken_item": "Shirken Item",
+      "block.virgencraft.mineral_de_kiroseki": "Mineral De Kiroseki",
+      "item.virgencraft.yoru": "Yoru",
+      "effect.virgencraft.rage": "Rage",
+      "item.virgencraft.memories.desc": "memories - one piec ending",
+      "item.virgencraft.raw_steel_ingot": "Raw Steel Ingot",
+      "item.virgencraft.memories": "Memories"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "virgencraft",
+    "modName": "VirgenCraft",
+    "version": "1.0.0",
+    "author": "jjcrd, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.virgencraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

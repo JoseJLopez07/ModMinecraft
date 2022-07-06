@@ -1,0 +1,7 @@
+{
+  "parent": "virgencraft:custom/tayako_bokuto",
+  "textures": {
+    "0": "virgencraft:blocks/textura_madera",
+    "particle": "virgencraft:items/bokuto_texture"
+  }
+}

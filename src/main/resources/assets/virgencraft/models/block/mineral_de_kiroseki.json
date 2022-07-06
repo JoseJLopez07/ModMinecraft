@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "virgencraft:blocks/ore_kairoseki",
+    "up": "virgencraft:blocks/ore_kairoseki",
+    "north": "virgencraft:blocks/ore_kairoseki",
+    "east": "virgencraft:blocks/ore_kairoseki",
+    "south": "virgencraft:blocks/ore_kairoseki",
+    "west": "virgencraft:blocks/ore_kairoseki",
+    "particle": "virgencraft:blocks/ore_kairoseki"
+  }
+}

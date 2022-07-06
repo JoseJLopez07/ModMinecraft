@@ -1,0 +1,10 @@
+{
+  "parent": "virgencraft:custom/modelds",
+  "textures": {
+    "0": "virgencraft:blocks/texture1",
+    "1": "virgencraft:blocks/texture2",
+    "2": "virgencraft:blocks/texture3",
+    "3": "virgencraft:blocks/texture4",
+    "particle": "virgencraft:items/dragon_slayer"
+  }
+}

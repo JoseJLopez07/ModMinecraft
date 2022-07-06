@@ -1,0 +1,7 @@
+{
+  "parent": "virgencraft:custom/modelace",
+  "textures": {
+    "0": "virgencraft:blocks/texture",
+    "particle": "virgencraft:items/ace_texture"
+  }
+}

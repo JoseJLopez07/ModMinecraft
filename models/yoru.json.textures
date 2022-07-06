@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "textura_mango_yotu",
+        "1": "textura_filo_yoru"
+      },
+      "name": "default"
+    }
+  }
+}
